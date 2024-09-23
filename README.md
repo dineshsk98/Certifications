@@ -1,12 +1,15 @@
 # Certifications
 Repo for online certifications
 
+TensorFlow on Google Cloud by Google Cloud: https://www.cloudskillsboost.google/public_profiles/c4b112b5-00e5-41fc-8363-c8d63ea7964b/badges/11622782
+
+Recommendation Systems on Google Cloud by Google Cloud : https://www.cloudskillsboost.google/public_profiles/c4b112b5-00e5-41fc-8363-c8d63ea7964b/badges/11604476
 
 Build and Deploy Machine Learning Solutions on Vertex AI Skill Badge by Google Cloud : https://www.credly.com/badges/b126a182-da64-4dd1-b284-a5e2cdf5b44a/public_url
 
 Prepare Data for ML APIs on Google Cloud Skill Badge by Google Cloud: https://www.credly.com/badges/ed723105-a0d5-4d6d-b8c8-777a431ec705/public_url
 
-Computer Vision Fundamentals with Google Cloud by Google Cloud
+Computer Vision Fundamentals with Google Cloud by Google Cloud : https://www.cloudskillsboost.google/public_profiles/c4b112b5-00e5-41fc-8363-c8d63ea7964b/badges/11088345
 
 Machine Learning Certification by Coursera : https://www.coursera.org/account/accomplishments/specialization/4QTG3K9WGU8G
 
